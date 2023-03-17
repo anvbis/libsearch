@@ -97,9 +97,9 @@ libc6-dbg_2.37-0ubuntu2_amd64
 ```
 
 ```
-./libsearch.py get-dbg -t libc6-dbg_2.31-0ubuntu9.9_amd64
+$ ./libsearch.py get-dbg -t libc6-dbg_2.31-0ubuntu9.9_amd64
 100%|██████████████████████████████████████████████████████████| 19.1M/19.1M [00:10<00:00, 1.98MB/s]
-$ stat libc6-dbg_*stat libc6-dbg_*
+$ stat libc6-dbg_*
   File: libc6-dbg_2.31-0ubuntu9.9_amd64
   Size: 4096      	Blocks: 8          IO Block: 4096   directory
   ...
