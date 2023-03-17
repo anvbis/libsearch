@@ -1,4 +1,4 @@
-# LibSearch
+<h1 align="center">LibSearch</h1>
 
 ## Installation
 
