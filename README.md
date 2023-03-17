@@ -104,3 +104,9 @@ $ stat libc6-dbg_*
   Size: 4096      	Blocks: 8          IO Block: 4096   directory
   ...
 ```
+
+```
+pwndbg> show debug-file-directory
+The directory where separate debug symbols are searched for is "/usr/lib/debug".
+pwndbg> set debug-file-directory ./libc6-dbg_2.31-0ubuntu9.9_amd64/usr/lib/debug/
+```
